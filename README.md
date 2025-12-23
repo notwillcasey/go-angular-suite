@@ -1,7 +1,15 @@
 # Purpose
-    Learn GO and Angular without AI-generated code. The idea is to build this app manually to reinforce understanding of these new languages and frameworks.
+Learn GO and Angular without AI-generated code. The idea is to build this app manually to reinforce understanding of these new languages and frameworks.
 
-    Create an app that I can continuously add pages to for testing new ideas. This will allow for more experience maintaining larger codebases outside of work and helps develop skills in architecture, security, and networking.
+Create an app that I can continuously add pages to for testing new ideas. This will allow for more experience maintaining larger codebases outside of work and helps develop skills in architecture, security, and networking.
+
+# Architecture
+- Front End: **Angular**
+
+- Back End: **GO**
+
+- DevOps Tools: 
+    - Docker
 
 # FrontEnd
 
@@ -22,11 +30,3 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
