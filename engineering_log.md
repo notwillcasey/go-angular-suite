@@ -1,3 +1,9 @@
+## 1/5/2026
+    Total Time: 2:30
+    This Session: 1 hour
+- Udemy course: **Angular - The Complete Guide (2025 edition)**<br>
+- Udemy course: **Angular (Full App) with Angular Materials, Angularfire, & NgRX**<br>
+
 ## 12/23/2025
     Total Time: 1:30
     This Session: 45 minutes
