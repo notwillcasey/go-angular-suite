@@ -1,7 +1,8 @@
 ## 1/5/2026
-    Total Time: 2:30
-    This Session: 1 hour
+    Total Time: 3:30
+    This Session: 2 hours
 - Udemy course: **Angular - The Complete Guide (2025 edition)**<br>
+    - create components with cli (header and footer)
 - Udemy course: **Angular (Full App) with Angular Materials, Angularfire, & NgRX**<br>
 
 ## 12/23/2025
